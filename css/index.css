@@ -7,8 +7,8 @@
 	--background-color: #000;
 
 	--text-color: #fff;
-	--text-color-link: #0f2;
-	--text-color-link-active: #0ff;
+	--text-color-link: rgb(147, 145, 87);
+	--text-color-link-active: rgb(235, 239, 6);
 	--text-color-link-visited: #0b0;
 
 	--syntax-tab-size: 2;

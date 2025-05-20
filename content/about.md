@@ -13,9 +13,9 @@ layout: layouts/base.njk
   <div class="column">
     <div class="card">
       <div class="container">
-        <h2>Book History</h2>
+        <h2>19C American Literature</h2>
         <p class="title">subtext</p>
-        <p>Some text that describes my interests in this field.</p>
+        <p>Slavery, Representation of African Americans</p>
       </div>
     </div>
   </div>
